@@ -2,7 +2,7 @@
 
 This repository helps you create your own remote control car with NRF24L01 and Arduino
 
-##### Hardware
+### Hardware
 
 * [Arduino (x2)](https://shope.ee/99wN4MhZ91)
 * [NRF24L01 (x2)](https://shope.ee/7zkPgDm0Vo)
@@ -12,11 +12,11 @@ This repository helps you create your own remote control car with NRF24L01 and A
 * [Gear motor](https://shope.ee/9zVU3zP79Z)
 * [Wheel](https://shope.ee/AURkeuND8g)
 
-##### Software
+### Software
 
 * [Arduino IDE](https://www.arduino.cc/en/software)
 * RF24 Library (in this repository)
 
-##### Wiring
+### Wiring
 
 Details have been recorded in the *.ino file
